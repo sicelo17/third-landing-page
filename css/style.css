@@ -1,0 +1,21 @@
+.item1 {
+    background-image: url("https://media.gettyimages.com/photos/global-connection-lines-data-exchange-pandemic-computer-virus-picture-id1211443622?k=6&m=1211443622&s=612x612&w=0&h=86Ji5y-_a-wf00gQG4pbrrwysxRr8qzBWqGoisZjrgQ=");
+}
+.item2 {
+    background-image: url("https://media.gettyimages.com/photos/an-empty-classroom-at-the-grace-farrar-cole-school-in-norwell-ma-with-picture-id1210613285?k=6&m=1210613285&s=612x612&w=0&h=aFSh8t7USVAtGRNYy-jZSWYV7XA1q5bHJWftSLd-9dA=");
+    height: 100%;
+}
+.item1, .item2{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.dark-overlay {
+    background-color: rgba(15, 15, 15, 0.596);
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+  }
