@@ -5,10 +5,10 @@
     font-size: 20px;
 }
 .item1 {
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url("https://media.gettyimages.com/photos/global-connection-lines-data-exchange-pandemic-computer-virus-picture-id1211443622?k=6&m=1211443622&s=612x612&w=0&h=86Ji5y-_a-wf00gQG4pbrrwysxRr8qzBWqGoisZjrgQ=");
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),url("https://media.gettyimages.com/photos/global-connection-lines-data-exchange-pandemic-computer-virus-picture-id1211443622?k=6&m=1211443622&s=612x612&w=0&h=86Ji5y-_a-wf00gQG4pbrrwysxRr8qzBWqGoisZjrgQ=");
 }
 .item2 {
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("https://media.gettyimages.com/photos/an-empty-classroom-at-the-grace-farrar-cole-school-in-norwell-ma-with-picture-id1210613285?k=6&m=1210613285&s=612x612&w=0&h=aFSh8t7USVAtGRNYy-jZSWYV7XA1q5bHJWftSLd-9dA=");
+    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("https://media.gettyimages.com/photos/an-empty-classroom-at-the-grace-farrar-cole-school-in-nowell-ma-with-picture-id1210613285?k=6&m=1210613285&s=612x612&w=0&h=aFSh8t7USVAtGRNYy-jZSWYV7XA1q5bHJWftSLd-9dA=");
 }
 .item1, .item2{
     height: 100vh;
