@@ -1,21 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.navbar {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
 .item1 {
-    background-image: url("https://media.gettyimages.com/photos/global-connection-lines-data-exchange-pandemic-computer-virus-picture-id1211443622?k=6&m=1211443622&s=612x612&w=0&h=86Ji5y-_a-wf00gQG4pbrrwysxRr8qzBWqGoisZjrgQ=");
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url("https://media.gettyimages.com/photos/global-connection-lines-data-exchange-pandemic-computer-virus-picture-id1211443622?k=6&m=1211443622&s=612x612&w=0&h=86Ji5y-_a-wf00gQG4pbrrwysxRr8qzBWqGoisZjrgQ=");
 }
 .item2 {
-    background-image: url("https://media.gettyimages.com/photos/an-empty-classroom-at-the-grace-farrar-cole-school-in-norwell-ma-with-picture-id1210613285?k=6&m=1210613285&s=612x612&w=0&h=aFSh8t7USVAtGRNYy-jZSWYV7XA1q5bHJWftSLd-9dA=");
-    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("https://media.gettyimages.com/photos/an-empty-classroom-at-the-grace-farrar-cole-school-in-norwell-ma-with-picture-id1210613285?k=6&m=1210613285&s=612x612&w=0&h=aFSh8t7USVAtGRNYy-jZSWYV7XA1q5bHJWftSLd-9dA=");
 }
 .item1, .item2{
+    height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
 }
-.dark-overlay {
-    background-color: rgba(15, 15, 15, 0.596);
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 100%;
+#cranelad {
+    padding-top: 150px;
     height: 100%;
-    opacity: 0.8;
-  }
+    width: 100%;
+}
+#cranelad p {
+    font: 25px "Droid serif", Arial, sans-serif;
+}
+#cranelad .btn {
+    border: solid 1px #fff;
+    padding: 15px 15px;
+    width: auto;
+    text-decoration: none;
+}
+#cranelad .container span {
+    font: 20px Montserrat, Arial, sans-serif;
+}
+#cranelad .fa {
+    color: #fff;
+    font-size: 30px;
+    padding: 14px;
+}
+#cranelad .fa:hover {
+    color: aqua;
+}
+#cranelad .btn:hover {
+    color: black;
+    background: #fff;
+    
+}
