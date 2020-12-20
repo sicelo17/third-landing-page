@@ -45,5 +45,7 @@
 #cranelad .btn:hover {
     color: black;
     background: #fff;
-    
+}
+.education:hover {
+    color: #fff;
 }
